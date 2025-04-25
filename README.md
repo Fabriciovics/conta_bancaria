@@ -8,12 +8,12 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/rafaelq80/aulas_java_t82?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/Fabriciovics/conta_bancaria?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/Fabriciovics/conta_bancaria?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/Fabriciovics/conta_bancaria?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/Fabriciovics/conta_bancaria?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/Fabriciovics/conta_bancariastyle=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/Fabriciovics/conta_bancaria?style=flat-square" />
 </div>
 
 ------
