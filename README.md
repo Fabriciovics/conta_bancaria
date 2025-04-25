@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/Fabriciovics/conta_bancaria?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/https://github.com/Fabriciovics/conta_bancaria/tree/master?style=flat-square" />
   <img src="https://img.shields.io/github/repo-size/Fabriciovics/conta_bancaria?style=flat-square" />
   <img src="https://img.shields.io/github/languages/count/Fabriciovics/conta_bancaria?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/Fabriciovics/conta_bancaria?style=flat-square" />
