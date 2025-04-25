@@ -1,9 +1,28 @@
+package conta_bancaria;
+
+import conta_bancaria.model.Conta;
 import conta_bancaria.util.Cores;
 
 import java.util.Scanner;
 
 public class Menu {
     public static void main(String[] args) {
+
+        //Instanciar objeto da classe Conta
+        Conta c1 = new Conta(1, 123, 1,"Aylla",500000);
+
+        //Visualizar
+        c1.visualizar();
+
+        //Sacar
+        c1.sacar(100);
+        c1.visualizar();
+        //Depositar
+        c1.depositar(1000);
+        c1.visualizar();
+        //ALterar propriedade
+        c1.setTitular("Aylla Scaglia");
+        c1.visualizar();
 
         Scanner leia = new Scanner(System.in);
 
