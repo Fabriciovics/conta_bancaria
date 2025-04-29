@@ -1,6 +1,8 @@
 package conta_bancaria;
 
 import conta_bancaria.model.Conta;
+import conta_bancaria.model.ContaCorrente;
+import conta_bancaria.model.ContaPoupanca;
 import conta_bancaria.util.Cores;
 
 import java.util.Scanner;
@@ -23,6 +25,26 @@ public class Menu {
         //ALterar propriedade
         c1.setTitular("Aylla Scaglia");
         c1.visualizar();
+
+        //Instanciando objeto da classe conta corrente
+        ContaCorrente cc1 = new ContaCorrente(2,456,1,"Renata Negrini",600000,60000);
+        cc1.visualizar();
+
+        cc1.sacar(659000);
+        cc1.visualizar();
+
+        cc1.depositar(50000);
+        cc1.visualizar();
+        //Instanciando objeto da classe conta poupanca
+        ContaPoupanca cp1 = new ContaPoupanca(3,678,1,"Fabricio Soares",700000,23);
+        cp1.visualizar();
+
+        cp1.sacar(500000);
+        cp1.visualizar();
+
+        cp1.depositar(150000);
+        cp1.visualizar();
+
 
         Scanner leia = new Scanner(System.in);
 
